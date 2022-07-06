@@ -151,3 +151,13 @@ hr{
   background: rgba(255, 166, 0, 0.258);
   padding: 60px 0;
 }
+footer{
+text-align: center;
+background-color: black;
+color: antiquewhite;
+
+}
+.cre{
+
+font-style: italic;
+}
