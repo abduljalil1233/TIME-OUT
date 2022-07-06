@@ -1,0 +1,153 @@
+body{
+  margin: 0;
+}
+
+.aaa{
+  text-align: center;
+ font-size: 40px;
+ color: aliceblue;
+padding-top: 10%;
+}
+
+.fff h1 {
+  margin: 0;
+}
+
+.ccc{
+  text-align: center;
+  color: aliceblue;
+  padding-bottom: 10%;
+}
+
+.fff{
+  background-image:url(images/donation6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.ddd{
+  text-align:center; 
+  margin-top: 50px;
+ 
+}
+.bbb{ 
+text-decoration: none;
+background-color: orange;
+color: black;
+text-transform: lowercase;
+font-weight: bolder;
+border-radius: 5px;
+margin: auto;
+padding: 15px 20px; 
+
+}
+.gg{
+  text-align: center;
+  font-size: 40px;
+}
+p{
+  text-align: center;
+}
+.hhh{ 
+  display: flex;
+  justify-content: center;
+  flex-direction: row; 
+}
+span{
+  color: blue;
+ 
+}
+.donate{
+  margin-bottom: 40px;
+}
+
+.tk {
+  margin-right: 10px;
+  background-color: #00000010;
+  padding: 10px 15px;
+}
+
+.tkd{
+  margin-right: 10px;
+  background-color: #a81a1a55;
+  padding: 10px 15px;
+  border: 2px solid red;
+}
+  
+
+hr{
+  width: 50%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.iii{
+  text-align: center;
+  font-size: 40PX;
+  font-style: italic;
+}
+.fooded{
+  color: aqua;
+  font-size: 70px;
+}
+.cccB{
+  text-align: center;
+}
+#kkk{
+  background: rgba(0, 0, 255, 0.116);
+  padding: 50px 70px;
+
+}
+.jjj{
+  display: flex;  
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 30px;
+  padding: 0 20px;
+} 
+.nnn{
+  display: flex;
+  flex-direction: row;
+}
+#lll{
+  background: rgba(255, 251, 0, 0.116);
+  padding: 50px 70px;
+}
+
+
+.section{
+  margin: 90px 0;
+}
+.image{
+  width: 100%;
+  height: auto;
+}
+
+.btn{
+  padding: 10px 15px;
+  background: blueviolet;
+  color: white
+}
+.donation{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 100px;
+}
+.need{
+  padding: 0 120px;
+}
+
+.update{
+  text-align: center;
+  padding: 20px 350px;
+}
+
+.button{
+  margin-left: -6px;
+  background-color: orange;
+}
+
+.sub{
+  background: rgba(255, 166, 0, 0.258);
+  padding: 60px 0;
+}
